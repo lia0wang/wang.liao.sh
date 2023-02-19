@@ -39,7 +39,7 @@ const staticMenuItems: Array<Array<NavigationItem>> = [
 			type: NavigationItemType.LINK,
 			icon: 'feather:linkedin',
 			text: 'LinkedIn',
-			href: 'https://www.linkedin.com/in/wang-liao-280571213/',
+			href: 'https://www.linkedin.com/in/wangliao-au/',
 			external: true,
 		},
 		{
