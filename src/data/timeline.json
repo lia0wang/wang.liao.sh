@@ -1,0 +1,114 @@
+[
+	{
+		"date": "02-06-2023",
+		"title": "AWS Certified Cloud Practitioner",
+		"description": "@Amazon Web Services",
+		"icon": "feather:book",
+		"link": {
+			"text": "Check my certificate",
+			"url": "https://www.credly.com/badges/97cc8551-4c63-4afc-be09-9cb0bf46f4fc/"
+		}
+	},
+	{
+		"date": "02-01-2023",
+		"title": "Project Training Lead",
+		"description": "@UNSW Computer Science and Engineering Society",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Visit CSESoc",
+			"url": "https://www.csesoc.unsw.edu.au/"
+		}
+	},
+	{
+		"date": "02-01-2023",
+		"title": "Academic Tutor",
+		"description": "@Warrane College UNSW",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Visit Warrane College",
+			"url": "https://warrane.unsw.edu.au/"
+		}
+	},
+	{
+		"date": "01-09-2023",
+		"title": "Student Consultant",
+		"description": "@WIL Project IBM × UNSW",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Check the feedback of WIL Project",
+			"url": "https://www.linkedin.com/pulse/re-imagining-graduate-intern-experience-david-provest"
+		}
+	},
+	{
+		"date": "1-01-2023",
+		"title": "Front Desk Receptionist",
+		"description": "@Warrane College UNSW",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Visit Warrane College",
+			"url": "https://warrane.unsw.edu.au/"
+		}
+	},
+	{
+		"date": "12-30-2022",
+		"title": "Went back Australia",
+		"description": "I went back in Australia to finish my Bachelor's Degree",
+		"icon": "feather:book"
+	},
+	{
+		"date": "09-19-2022",
+		"title": "Data Analyst Intern",
+		"description": "@Volvo Cars",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Visit Volvo Cars",
+			"url": "https://www.volvocars.com/"
+		}
+	},
+	{
+		"date": "08-01-2022",
+		"title": "Analytical Validation Engineer",
+		"description": "@Volvo Cars",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Visit Volvo Cars",
+			"url": "https://www.volvocars.com/"
+		}
+	},
+	{
+		"date": "02-15-2022",
+		"title": "Software Quality Assurance Engineer",
+		"description": "@QAD",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Visit QAD",
+			"url": "https://qad.com/"
+		}
+	},
+	{
+		"date": "12-19-2021",
+		"title": "Went back China",
+		"description": "I went back in China to visit my friends and family",
+		"icon": "feather:book"
+	},
+	{
+		"date": "01-18-2021",
+		"title": "Residential Member",
+		"description": "@Warrane College UNSW",
+		"icon": "feather:book",
+		"link": {
+			"text": "Visit Warrane College",
+			"url": "https://warrane.unsw.edu.au/"
+		}
+	},
+	{
+		"date": "09-14-2020",
+		"title": "Bachelor's Degree in Computer Science",
+		"description": "@UNSW",
+		"icon": "feather:book",
+		"link": {
+			"text": "Visit The University of New South Wales",
+			"url": "https://www.unsw.edu.au/"
+		}
+	}
+]
