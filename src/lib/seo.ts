@@ -8,22 +8,22 @@ export function useSeoProps(
 ): Partial<ComponentProps<typeof NextSeo>> {
 	const router = useRouter();
 
-	const title = 'lia0wang.com';
+	const title = 'wang.liao.sh';
 	const description = "official website of LIAO, Wang";
 
 	return {
 		title,
 		description,
-		canonical: `https://lia0wang.com/${router.asPath}`,
+		canonical: `https://wang.liao.sh/${router.asPath}`,
 		openGraph: {
 			title,
 			description,
-			site_name: 'lia0wang',
-			url: `https://lia0wang.com/${router.asPath}`,
+			site_name: 'wang.liao.sh',
+			url: `https://wang.liao.sh/${router.asPath}`,
 			type: 'website',
 			images: [
 				{
-					url: 'https://lia0wang.com/banner.png',
+					url: 'https://wang.liao.sh/banner.png',
 					alt: description,
 					width: 1280,
 					height: 720,
@@ -32,8 +32,8 @@ export function useSeoProps(
 		},
 		twitter: {
 			cardType: 'summary_large_image',
-			handle: '@lia0wang',
-			site: '@lia0wang',
+			handle: '@wang.liao.sh',
+			site: '@wang.liao.sh',
 		},
 		...props,
 	};
