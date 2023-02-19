@@ -32,7 +32,7 @@ const ACTIONS: Array<NavigationItem> = [
 	{
 		type: NavigationItemType.LINK,
 		external: true,
-		href: 'https://lia0wang.com/resume/leon_liao_23m2.pdf',
+		href: 'https://wang.liao.sh/resume/leon_liao_23m2.pdf',
 		icon: <Icon className="mr-3" icon="feather:paperclip" />,
 		text: 'Resume',
 	},
@@ -51,7 +51,7 @@ export default function HomePage(): JSX.Element {
 	const isBirthday =
 		today.getDate() === birthday.getDate() && today.getMonth() === birthday.getMonth();
 
-	const description = `lia0wang@outlook.com`;
+	const description = `wang@liao.sh`;
 	const copyRight = `CC BY-NC-SA 4.0 © 2022-2023 LIAO, Wang`;
 	return (
 		<Layout.Default>
