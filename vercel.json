@@ -1,7 +1,7 @@
 {
 	"$schema": "https://openapi.vercel.sh/vercel.json",
 	"version": 2,
-	"alias": "lia0wang.com",
+	"alias": "wang.liao.sh",
 	"cleanUrls": true,
 	"public": true,
 	"regions": ["lhr1"],
@@ -14,7 +14,7 @@
 		{ "source": "/portfolio", "destination": "/projects" },
 		{
 			"source": "/contact",
-			"destination": "mailto:lia0wang@outlook.com?subject=Hello&mate=Hello%20Wang%20Liao%2C%0A%0AHow%20are%20you%3F%0A"
+			"destination": "mailto:wang@liao.sh?subject=Hello&mate=Hello%20Wang%20Liao%2C%0A%0AHow%20are%20you%3F%0A"
 		}
 	]
 }

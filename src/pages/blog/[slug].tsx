@@ -48,7 +48,7 @@ export default function BlogPost({ post }: BlogPostProps): JSX.Element {
 		<>
 			<Layout.Blog
 				seo={{
-					title: `${post.frontmatter.title} ─ blog ─ lia0wang`,
+					title: `${post.frontmatter.title} ─ blog ─ wang`,
 					description: post.frontmatter.description ?? undefined,
 					openGraph: {
 						title: post.frontmatter.title,

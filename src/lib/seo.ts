@@ -8,8 +8,8 @@ export function useSeoProps(
 ): Partial<ComponentProps<typeof NextSeo>> {
 	const router = useRouter();
 
-	const title = 'wang.liao.sh';
-	const description = "official website of LIAO, Wang";
+	const title = 'Wang LIAO - wang.liao.sh';
+	const description = "portfolio of Wang LIAO";
 
 	return {
 		title,

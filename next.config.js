@@ -2,7 +2,7 @@
 const isProd = process.env.NODE_ENV === 'production';
 
 module.exports = {
-	assetPrefix: isProd ? 'https://lia0wang.com/' : '',
+	assetPrefix: isProd ? 'https://wang.liao.sh/' : '',
 	images: {
 		loader: 'akamai',
 		unoptimized: true,

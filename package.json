@@ -1,10 +1,10 @@
 {
 	"private": true,
-	"name": "lia0wang.com",
+	"name": "wang.liao.sh",
 	"version": "2.1.1",
-	"description": "Personal Website for lia0wang.com",
-	"repository": "https://github.com/lia0wang/lia0wang.com.git",
-	"author": "lia0wang <lia0wang@outlook.com>",
+	"description": "LIAO, Wang",
+	"repository": "https://github.com/lia0wang/wang.liao.sh.git",
+	"author": "WANG LIAO <wang@liao.sh>",
 	"license": "MIT",
 	"prettier": {
 		"arrowParens": "always",
