@@ -6,6 +6,10 @@
 	"repository": "https://github.com/lia0wang/wang.liao.sh.git",
 	"author": "WANG LIAO <wang@liao.sh>",
 	"license": "MIT",
+	"keywords": [
+		"Wang Liao",
+		"UNSW"
+	],
 	"prettier": {
 		"arrowParens": "always",
 		"bracketSpacing": true,
